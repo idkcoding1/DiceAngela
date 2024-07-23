@@ -1,0 +1,35 @@
+.huge {
+    font-size: 3rem;
+}
+
+body {
+    background-color: rgb(154, 172, 237);
+}
+
+#logo {
+    text-align: center;
+}
+
+.dice {
+    display: inline-block;
+    text-align: center;
+}
+
+#match {
+    text-align: center;
+    color: rgb(5, 26, 26);
+}
+
+.heading {
+    font-size: 3rem;
+    text-align: center;
+    color: rgb(31, 7, 105);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.foot {
+    padding: 7% 15%;
+    text-align: center;
+    font-family: "italic";
+    color: #250808;
+}
